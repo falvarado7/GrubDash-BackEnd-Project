@@ -6,7 +6,7 @@ Of note, the front-end application was provided for this assignment.
 
 ## Screenshot
 ### Home Page:
-![home](/screenshots/home.jpg)
+![home](/screenshots/Grubdash-project.PNG)
 
 ## Technology
 - Built with Node.js and Express server framework
